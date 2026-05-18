@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+    <rect x="4" y="4" height="24" width="24"
+          rx="1" ry="1"
+          style="stroke:#202020; fill: none; stroke-width: 2;"/>
+    <path d="M5.5,0l0,3 M9,0l0,3 M12.5,0l0,3 M16,0l0,3 M19.5,0l0,3 M23,0l0,3 M26.5,0l0,3
+            M5.5,29l0,3 M9,29l0,3 M12.5,29l0,3 M16,29l0,3 M19.5,29l0,3 M23,29l0,3 M26.5,29l0,3
+            M0,5.5l3,0 M0,9l3,0 M0,12.5l3,0 M0,16l3,0 M0,19.5l3,0 M0,23l3,0 M0,26.5l3,0
+            M29,5.5l3,0 M29,9l3,0 M29,12.5l3,0 M29,16l3,0 M29,19.5l3,0 M29,23l3,0 M29,26.5l3,0"
+            style="stroke:#202020; fill: none; stroke-width: 1;"/>
+    <path d="M4,19.5 L9,19.5 l0,3.5 l3.5,0 L12.5,29
+            M4,9 L9,9 L9,12.75
+            M16,4 L16,9 L29,9
+            M12.5,4 L12.5,10.75 L16,14.25 L16,16
+            M29,12.5 L21.25,12.5 L21.25,16 L23,17.75 L23,19.5 L20.5,22"
+            style="stroke:#202020; fill: none; stroke-width: 0.75; stroke-linejoin: round;"/>
+    <circle cx="9" cy="14.25" r="1.5" style="stroke:#202020; fill: none; stroke-width: 0.75;"/>
+    <circle cx="16" cy="17.75" r="1.5" style="stroke:#202020; fill: none; stroke-width: 0.75;"/>
+    <circle cx="19.5" cy="23" r="1.5" style="stroke:#202020; fill: none; stroke-width: 0.75;"/>
+    <circle cx="0" cy="0" r="1" style="stroke:#6B5B95; fill: #6B5B95; stroke-width: 0.25;">
+        <animateMotion
+              path="M12.5,0 L12.5,10.75 L16,14.25 L16,17.75 M19.5,23 L23,19.5 L23,17.75 L21.25,16 L21.25,12.5 L32,12.5 M32,9 L16,9 L16,0 M12.5,32 L12,23 l-3.5,0 l0,-3.5 L0,19.5 M0,9 L9,9 L9,14.25"
+              begin="0s" dur="4s" repeatCount="indefinite"
+        />
+    </circle>
+</svg>
